@@ -1,0 +1,21 @@
+body {
+    margin: 50px;
+    background-color: #e3e6c5;
+    color: #4d2323;
+    font-size: 18px;
+    }
+
+    a {
+    text-decoration: none;
+    color: #4d2323;
+    font-weight:bold;
+    }
+  
+    img {
+    text-align: center;
+    width: 210px;
+    height: 210px;
+    border-radius: 60%;
+    }
+  
+    
