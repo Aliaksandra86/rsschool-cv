@@ -35,6 +35,10 @@ console.log(phrases[randIndex]);
 }
 ```
 
+## Courses and trainings:
+1. HTML&CSSmasterclass video courses on YouTube channel ITEA training center https://html.onlineitea.com/
+2. Content layout basics course https://ru.hexlet.io/
+3. HTML, CSS, JavaScript: introductory module course https://practicum.yandex.ru/
 
 
 
