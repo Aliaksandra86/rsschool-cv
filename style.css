@@ -11,5 +11,11 @@ body {
     font-weight:bold;
     }
   
+    img {
+    text-align: center;
+    width: 210px;
+    height: 210px;
+    border-radius: 60%;
+    }
   
     
